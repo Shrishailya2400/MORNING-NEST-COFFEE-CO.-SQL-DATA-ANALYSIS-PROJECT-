@@ -13,7 +13,9 @@ Recommending the top 3 cities for opening new coffee shops based on data insight
 Tools & Technologies
 
 SQL (MySQL/PostgreSQL) – for querying the database
+
 MS Excel - for table creation
+
 MS PowerPoint – for visual presentation
 
 Results
